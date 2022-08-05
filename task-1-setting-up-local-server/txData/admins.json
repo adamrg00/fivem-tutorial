@@ -1,0 +1,21 @@
+[
+  {
+    "name": "AdamGranville",
+    "master": true,
+    "password_hash": "$2a$11$L05245A8LVRh2Zcbqk8nOOu5R4Wmcf4pb7yT0I6pIwj2oKgJ6uorO",
+    "providers": {
+      "citizenfx": {
+        "id": "AdamGranville",
+        "identifier": "fivem:1840327",
+        "data": {
+          "sub": "ff3f5886707ce023cfc47ab1c7e9baa4",
+          "nameid": "https://forum.cfx.re/internal/user/1840327",
+          "name": "AdamGranville",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/adamgranville/256/696233_2.png",
+          "profile": "https://forum.cfx.re/u/AdamGranville"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
