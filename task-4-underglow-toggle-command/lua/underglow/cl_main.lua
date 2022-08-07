@@ -1,9 +1,9 @@
-RegisterNetEvent('vehicle-underglow-on', function(vehicleNetId)
+RegisterNetEvent('vehicle-underglow-on', function(vehicleNetId, r, g, b)
     local vehicle = NetToVeh(vehicleNetId)
     for i = 0,3 do
         SetVehicleNeonLightEnabled(vehicle, i, true)
     end
-    SetVehicleNeonLightsColour(vehicle, 2, 21, 255)
+    SetVehicleNeonLightsColour(vehicle, r, g, b)
 end)
 
 RegisterNetEvent('vehicle-underglow-off', function(vehicleNetId)
